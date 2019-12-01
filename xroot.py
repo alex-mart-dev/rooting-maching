@@ -20,7 +20,7 @@ if number <= 0:
     negNum = True
 
 if oddExp and negNum is True:
-    print("You cannot find even roots of negative numbers")
+    print("Even roots of negative numbers aren't real numbers")
     exit()
 # checks to see if user asks for the impossible
 
